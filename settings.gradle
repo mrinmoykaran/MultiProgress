@@ -1,0 +1,3 @@
+include ':MultiProgress'
+include ':app'
+rootProject.name = "MultiProgress"
